@@ -1,7 +1,6 @@
 let input, button, greeting;
 
 function setup() {
-  // Crie um canvas dentro do elemento com id "canvasContainer"
   const canvasContainer = createCanvas(1920, 1080);
   canvasContainer.parent('canvasContainer');
 
